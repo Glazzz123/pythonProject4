@@ -1,0 +1,2 @@
+[console_scripts]
+salary-report = salary_report.main:main

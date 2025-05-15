@@ -1,0 +1,7 @@
+README.md
+setup.py
+salary_report.egg-info/PKG-INFO
+salary_report.egg-info/SOURCES.txt
+salary_report.egg-info/dependency_links.txt
+salary_report.egg-info/entry_points.txt
+salary_report.egg-info/top_level.txt
